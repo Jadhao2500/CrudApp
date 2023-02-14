@@ -1,0 +1,25 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jadhao2500/CrudApp.git"
+  },
+  "author": "Jadhao@2500",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jadhao2500/CrudApp/issues"
+  },
+  "homepage": "https://github.com/Jadhao2500/CrudApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
